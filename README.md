@@ -78,6 +78,4 @@ rover-dashboard/
 └── package.json
 ```
 
-## License
 
-MIT
